@@ -15,8 +15,11 @@ Create a .env file with variables
 
 
 MONGO_URL
+
 CLOUD_NAME
+
 CLOUD_KEY
+
 CLOUD_SECRET
 
 
@@ -39,10 +42,15 @@ pricePerGram     0.02
 Values  ( Image Field is optional, only change whatever fields you want to update)
 
 imageUrl         sample2.png
+
 name             TMT
+
 technology       FDM
+
 colors           ["Black", "Pink"]
+
 applicationTypes ["Construction"]
+
 pricePerGram     0.046
 
 
